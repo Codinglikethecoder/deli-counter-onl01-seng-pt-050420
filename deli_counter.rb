@@ -21,4 +21,4 @@ def now_serving(deli)
   else
     puts "Currently serving #{deli.shift}."
   end
-end# Write your code here.
+end
